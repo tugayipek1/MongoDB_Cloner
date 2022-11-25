@@ -8,6 +8,9 @@
 
 <p align="center">
   <h2 align="center">MongoDB Cloner App</h2>
+  MongoDB_Cloner_App is a free open source cloning application that provides backup and transfer of MongoDb databases from one server to another.
+
+This application is mostly developed for developers who experience data confusion between preprod and test environments.
   <p align="center">
     Frontend : <a href="https://github.com/tugayipek1/MongoDB_Cloner/tree/main/frontend">VUE</a>
     Backend : <a href="https://github.com/tugayipek1/MongoDB_Cloner/tree/main/app">NodeJS</a>
